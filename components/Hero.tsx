@@ -5,7 +5,7 @@ import React from 'react';
 // ==========================================
 // 手元の画像を使用する場合は、プロジェクト内に画像を配置し（例: publicフォルダ）、
 // 以下のURLをローカルパス（例: "/product.jpg"）に書き換えてください。
-const PRODUCT_IMAGE_URL = "/product.jpg";
+const PRODUCT_IMAGE_URL = "/product.png";
 // ==========================================
 
 export const Hero: React.FC = () => {
