@@ -30,7 +30,7 @@ export const Hero: React.FC = () => {
           {/* Text Content */}
           <div className="md:w-1/2 text-center md:text-left space-y-4">
             <h1 className="text-indigo-900 font-black leading-tight drop-shadow-sm">
-              <span className="block text-5xl md:text-6xl mb-2">毛穴、つるん！</span>
+              <span className="block text-5xl md:text-6xl mb-2">毛穴。つるん♪</span>
               <span className="block text-2xl md:text-3xl text-indigo-900/90">
                 酵素×ビタミンCの力で、<br className="hidden md:inline" />
                 透明感あふれる<br className="hidden md:inline" />
