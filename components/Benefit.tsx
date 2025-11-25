@@ -5,7 +5,7 @@ import React from 'react';
 // ==========================================
 // 手元の画像を使用する場合は、プロジェクト内に画像を配置し（例: publicフォルダ）、
 // 以下のURLをローカルパス（例: "/model.jpg"）に書き換えてください。
-const MODEL_IMAGE_URL = "https://images.unsplash.com/photo-1512207855369-6434528300f2?auto=format&fit=crop&w=600&q=80";
+const MODEL_IMAGE_URL = "/model.jpg";
 // ==========================================
 
 export const Benefit: React.FC = () => {
